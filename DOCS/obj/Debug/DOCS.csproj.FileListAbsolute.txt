@@ -1,0 +1,10 @@
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\bin\Debug\DOCS.exe.config
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\bin\Debug\DOCS.exe
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\bin\Debug\DOCS.pdb
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.csprojResolveAssemblyReference.cache
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.Properties.Resources.resources
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.csproj.GenerateResource.Cache
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.csproj.CoreCompileInputs.cache
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.exe
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.pdb
+D:\Files\stack\Visual Studio\DOCDSorter\DOCS\DOCS\obj\Debug\DOCS.FormProgress.resources
